@@ -25,7 +25,7 @@ public class RequestController
 	@RequestMapping("/login")
 	public String Loginpage()
 	{
-		return "login.jsp";
+		return "login";
 	}
 	
 	@RequestMapping("/logincheck")

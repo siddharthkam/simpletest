@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="add">
- <input type="text" name="t1"><br>
- <input type="text" name="t2"><br>
- <input type="submit">
-</form>
+Welcome
 </body>
 </html>

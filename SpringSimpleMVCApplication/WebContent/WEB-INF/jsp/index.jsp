@@ -12,5 +12,6 @@
  <input type="text" name="t2"><br>
  <input type="submit">
 </form>
+
 </body>
 </html>

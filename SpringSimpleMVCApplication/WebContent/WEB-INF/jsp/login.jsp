@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-Result ${result}
-<a href="login">Login</a>
+<form action="logincheck" method="post">
+	<input type="text" name="username">
+	<input type="password" name="userpass">
+	<input type="submit">
+</form>
 </body>
 </html>

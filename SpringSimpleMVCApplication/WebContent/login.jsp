@@ -7,11 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="add">
- <input type="text" name="t1"><br>
- <input type="text" name="t2"><br>
- <input type="submit">
+<form action="logincheck" method="post">
+	<input type="text" name="username">
+	<input type="password" name="userpass">
+	<input type="submit">
 </form>
-
 </body>
 </html>
